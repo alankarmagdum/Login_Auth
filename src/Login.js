@@ -46,7 +46,7 @@ sessionStorage.clear();
             // console.log('proceed');
             let inputobj={"username": username,
             "password": password};
-            fetch("https://localhost:44308/User/Authenticate",{
+            fetch("https://65bdcaf1b51f9b29e933adcf.mockapi.io/curd-app",{
                 method:'POST',
                 headers:{'content-type':'application/json'},
                 body:JSON.stringify(inputobj)
