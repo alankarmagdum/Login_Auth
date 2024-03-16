@@ -26,7 +26,7 @@ const Home = () => {
     return (
         <div>
             
-            <h1 className="text-center">Welcome to Nihira Techiees</h1>
+            <h1 className="text-center">Welcome to Cubic Software</h1>
             {/* <table className="table table-bordered">
                 <thead>
                     <tr>
